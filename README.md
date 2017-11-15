@@ -1,6 +1,6 @@
 P.S: The code is so dirty and might hurt yours eyes, read it on your own risks!
 
-#[Elevator Simulation]
+# [Elevator Simulation]
 In a nutshell this is simulation of two elevators, one works as the queue of workers entering is a PriorityQueue the second works as its queue is a normal Queue (FIFO).
 This program find the best case that will make the smallest average time workers have wait before going to their destination by generating all different cases (2^18 since we have 18 worker here) and calculate each time, the funniest part of the project is this, i will try to explain it in details in a different post.
 
